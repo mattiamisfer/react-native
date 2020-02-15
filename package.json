@@ -44,7 +44,7 @@
     "react-navigation-transitions": "^1.0.12",
     "react-timer-mixin": "^0.13.4",
     "switch-button-react-native": "^1.0.3",
-    "yarn": "^1.21.1"
+    "yarn": "^1.22.0"
   },
   "devDependencies": {
     "@babel/core": "7.7.7",
